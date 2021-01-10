@@ -1,4 +1,4 @@
 # verma_agro
 
 
-<img src="screenshot/fin.gif" width="200">
+<img src="screenshots/fin.gif" width="200">
